@@ -1,0 +1,37 @@
+* {
+    background-color: grey;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gold;
+    text-shadow: 2px 2px black;
+}
+
+tbody {
+    height: 600px;
+    width: 600px;
+    align-content: space-around;
+}
+
+td {
+    height: 200px;
+    width: 200px;
+    background-color: white;
+}
+
+td:hover {
+    background-color: gold;
+    cursor: pointer;
+}
+
+#red {
+    background-color: red;
+}
+
+#yellow {
+    background-color: yellow;
+}
